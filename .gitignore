@@ -1,0 +1,6 @@
+node_modules/
+.DS_Store
+*.log
+*.pdf
+prompt.txt
+.claude/
